@@ -1,0 +1,24 @@
+{
+  "name": "Amazona",
+  "version": "1.0.0",
+  "description": "This project involving designing Payment Processing APIs for E Commerce websites. It utilizes the use of third party APIs such as Stripe and JWT to aid in the whole process. This front end for the platform was built using React.js while the backend for the platform was built using Node JS and Express JS while the database is a NoSQL database(MongoDB). This website would have the following features \r - Creating an account \r - Updating an account \r - Disabling an account \r - Making a deposit to an account \r - Making a withdrawal from an account \r - Transfer of a fund from one account to another \r - Making a refund of a previous transaction \r - Getting the account's balance \r - Showing a history of transactions from an account",
+  "main": "index.js",
+  "dependencies": {
+    "react-paypal-js": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IBK-thegreatest/Amazona-ECommerce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IBK-thegreatest/Amazona-ECommerce/issues"
+  },
+  "homepage": "https://github.com/IBK-thegreatest/Amazona-ECommerce#readme"
+}
